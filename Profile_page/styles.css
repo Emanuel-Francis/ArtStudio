@@ -6,7 +6,7 @@
 .hero-img{
     height:60vh;
     width: 100%; 
-    background-color: rgba(129, 204, 59, 0.39);
+    background-color: rgba(129, 204, 59, 0.438);
     background-image: url(center-splash.jpg);
     background-blend-mode: screen;
     background-position: center;
@@ -19,19 +19,16 @@
 .wel-msg{
 
     padding-block: 150px;
-    color:#ffff;
+    color:rgb(0, 0, 0);
 }
 .wel-msg h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
-    display: swap;
-    font-size:4em;
+
 }
 .wel-msg p{
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    display: swap;
-    font-size:1.5em;
+    font-weight: 540;
 }
 
 /* Under hero*/
