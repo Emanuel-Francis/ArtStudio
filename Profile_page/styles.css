@@ -1,3 +1,42 @@
 .spacing{
     padding-block: 60px;
 }
+
+/* The images of art in frames*/
+.hero-img{
+    height:60vh;
+    width: 100%; 
+    background-color: rgba(129, 204, 59, 0.39);
+    background-image: url(center-splash.jpg);
+    background-blend-mode: screen;
+    background-position: center;
+   
+    
+   
+}
+
+/* Welcome message on top of hero*/
+.wel-msg{
+
+    padding-block: 150px;
+    color:#ffff;
+}
+.wel-msg h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    display: swap;
+    font-size:4em;
+}
+.wel-msg p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    display: swap;
+    font-size:1.5em;
+}
+
+/* Under hero*/
+
+.art-description p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
