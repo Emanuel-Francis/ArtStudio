@@ -1,6 +1,8 @@
-.all{
-    background:url("paper.jpg");
-    
+#circle {
+    background: lightblue;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
 }
 
 .spacing{
